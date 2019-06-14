@@ -3170,7 +3170,7 @@ the page.
 
 Replace the `ng12Hybrid` previously added with the following in `protractor-conf.js`:
 
-替换之前在 `protractor-conf.js` 中加入 `ng12Hybrid`，象这样：
+替换之前在 `protractor-conf.js` 中加入 `ng12Hybrid`，像这样：
 
 <code-example format="">
   useAllAngular2AppRoots: true,
